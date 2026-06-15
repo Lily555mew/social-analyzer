@@ -1,1 +1,5 @@
-social-analyzer
+social-analyzer-clt-username "test" --websites "pinterest reddit t.me tiktok tumblr instagram twitter
+
+youtube fac
+
+ebook"metadata
